@@ -20,4 +20,6 @@ Install and Run instructions:
 6. Run the following command:
     java -jar graphhopper-web-0.6.0-with-dep.jar jetty.resourcebase=webapp config=config-example.properties osmreader.osm=new-york-         latest.osm.pbf
 7. Install Jupyter Notebook and open the project folder in localhost.
-8. Run the project step by step using Jupyter.
+8. Run the project step by step using Jupyter on 2 files (in order):
+    Import.ipynb
+    Apply.ipynb
