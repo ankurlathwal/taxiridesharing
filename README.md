@@ -14,6 +14,7 @@ Install and Run instructions:
 1. Clone the repository as zip.
 2. Unzip the files in a folder.
 3. Download all the files from google drive link:
+    https://drive.google.com/drive/folders/0Bx-5mrdb_G2KZnJCdm1lVkNoRGs?usp=sharing
 4. COpy the downloaed files and folders to Repository Folder
 5. Open cmd and navigate to the project folder.
 6. Run the following command:
